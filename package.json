@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "puppeteer": "^19.6.1"
+  },
+  "name": "twitter-bot-puppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "syildirim689 <syildirim689@gmail.com>",
+  "license": "MIT"
+}
