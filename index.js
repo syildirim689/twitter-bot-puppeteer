@@ -1,9 +1,14 @@
 //puppeteer kütüphanesini projemize dahil ediyoruz.
 const puppeteer = require('puppeteer')
 
+//dotenv kütüphanesini projemize dahil ediyoruz.
+require('dotenv').config()
+
 //twitter kullanıcı adı ve şifremizi değişkenlere atıyoruz.
-const username = "simgekaya0606"
-const password = "Simge2023"
+const username = process.env.TWITTER_USERNAME
+const password = process.env.TWITTER_PASSWORD
+
+console.log(username + " " + password)
 
 //puppeteer kütüphanesini kullanarak tarayıcıyı başlatıyoruz.
 let browser = null
@@ -15,7 +20,6 @@ let h = 768
 //Tweet JSON dosyasını projemize dahil ediyoruz.
 const tweet = require('./tweets.json')
 const tweets = tweet.tweets.map(tweet => tweet.text)
-const randomTweet = tweets[Math.floor(Math.random() * tweets.length)]
 
 //Twitter giriş fonksiyonumuzu oluşturuyoruz.
 async function twitterLogin() {
@@ -58,6 +62,7 @@ async function tweetWrite() {
         console.log("Tweet yazma alanına yönlendiriliyor...")
         await page.waitForSelector('div[class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"]')
         console.log("Tweet yazılıyor...")
+        const randomTweet = tweets[Math.floor(Math.random() * tweets.length)]
         await page.type('div[class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"]', randomTweet, { delay: 50 })
         console.log("Tweet gönderiliyor...")
         await page.click('div[class="css-901oao r-1awozwy r-jwli3a r-6koalj r-18u37iz r-16y2uox r-37j5jr r-a023e6 r-b88u0q r-1777fci r-rjixqe r-bcqeeo r-q4m81j r-qvutc0"]',
@@ -91,7 +96,8 @@ async function tweetLike() {
 }
 
 // tweetLike()
+//tweetWrite()
 
 //Her dakika bir tweet göndermek için setInterval fonksiyonunu kullanıyoruz.
-setInterval(tweetWrite, 40000)
+setInterval(tweetWrite, 30000)
 // setInterval(tweetLike, 60000)
