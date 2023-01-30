@@ -1,13 +1,973 @@
 {
     "tweets": [
         {
-            "text": "I'm a tweet!"
+            "text": "Günaydın...."
         },
         {
-            "text": "I'm another tweet!"
+            "text": "Arkadaşlar olmuyorsa zorlamayın bazıları unutulmayı sevilmekten daha çok hakediyor çünkü"
         },
         {
-            "text": "I'm a third tweet!"
+            "text": "Arkadaşlarım sürekli tiktokta bana eski sevgilimin tiktoklarını gönderiyor seninki diye ne zorsun ahir zaman…"
+        },
+        {
+            "text": "Derbi mode on sağ baştan fav"
+        },
+        {
+            "text": "Twitter anasayfasında tod reklamı görmekten gına geldi yeter"
+        },
+        {
+            "text": "Türkiye'nin ekonomik büyüme verilerini hesaplamaktan sorumlu olan TÜİK Ulusal Hesaplar Daire Başkanı görevden alındı. (Bloomberg)"
+        },
+        {
+            "text": "Gram altın 1.135 TL ile rekor kırdı."
+        },
+        {
+            "text": "Türk kavramından nefret edenlerle mücadelemizin süreceği bir seçimi yaşayacağımızı şimdiden söylüyorum."
+        },
+        {
+            "text": "— Cumhurbaşkanı Erdoğan"
+        },
+        {
+            "text": "Alkollü içeceklere yapılan zamlar zulümdür."
+        },
+        {
+            "text": "— Kemal Kılıçdaroğlu"
+        },
+        {
+            "text": "Seçimler, mevsimsel şartlar sebebiyle çok az öne alınacaksa bunun adı ‘erken seçim’ değil, ‘seçim tarihinin güncellenmesi’ olur. — AK Partili Ali İhsan Yavuz"
+        },
+        {
+            "text": "1 milyon yabancı 2022’de Türkiye’de saç ektirdi."
+        },
+        {
+            "text": "Yunanistan, Türkiye ile kara sınırının tamamına 140 KM’lik çit çekecek."
+        },
+        {
+            "text": "BİM, ocak ayı boyunca 500 ürünün fiyatını sabitledi."
+        },
+        {
+            "text": "Elon Musk, 2023'ün ilk haftasında 13 milyar dolar kaybetti."
+        },
+        {
+            "text": "Sinan Ateş cinayetinde tutuklanan MHP İstanbul İl Yöneticisi Köktürk, 2013 yılında bir öğrenciyi öldürmekten tutuklu yargılandığı, sürpriz bir şekilde tahliye edildiği,"
+        },
+        {
+            "text": "Ardından 20 yıl hapis cezasına çarptırılmasına rağmen tekrar tutuklanmadığı ortaya çıktı. (DW)"
+        },
+        {
+            "text": "Dolar / TL kurunu güncelleyen Steam'de 400'den fazla oyuna %700'e varan zam geldi. (Webtekno)"
+        },
+        {
+            "text": "Dünyada gıda fiyatları son bir yılda %-1.0 gerilerken, Türkiye'de %77 yükseldi. (BloombergHT)"
+        },
+        {
+            "text": "Cumhurbaşkanı tek başına karar veremeyecek. Bizim imzamız olmadan karar alamayacak. — Ahmet Davutoğlu"
+        },
+        {
+            "text": "A101, 2023 ürünün fiyatlarını sabitleyeceğini açıkladı."
+        },
+        {
+            "text": "Dün İBB: Bostancı Dudullu metrosu açılmıştır."
+        },
+        {
+            "text": "Bugün İBB: Metromuz arıza nedeniyle kapalıdır."
+        },
+        {
+            "text": "İstanbul çapsızlığın, beceriksizliğin kitabını yazıyor.."
+        },
+        {
+            "text": "Cumhurbaşkanımız Sayın @RTErdogan"
+        },
+        {
+            "text": ":"
+        },
+        {
+            "text": "“#TürkiyeYüzyılı'nı emanet edeceğimiz bu gençlik, milletimizin asırlardır kurduğu hayalleri gerçeğe dönüştürecek gençliktir.”"
+        },
+        {
+            "text": "📍#ÜniAKFest"
+        },
+        {
+            "text": "@AKGenclikGM"
+        },
+        {
+            "text": "@UniakGM"
+        },
+        {
+            "text": "@uniaktekirdag"
+        },
+        {
+            "text": "Duyanlara duymayanlara Soranlara sormayanlara!!"
+        },
+        {
+            "text": "Oyumuz Recep Tayyip Erdoğan'a."
+        },
+        {
+            "text": "ÜniAK FEST Programı'nda Cumhurbaşkanımız Sn. @RTErdogan"
+        },
+        {
+            "text": "‘ın hitaplarını dinliyoruz."
+        },
+        {
+            "text": "Uçmayı seviyorsan, düşmeyi de bileceksin. Korkarak yaşıyorsan, yalnızca hayatı seyredersin.."
+        },
+        {
+            "text": "Ömür bir masal gibidir, ne kadar uzun olduğu değil, ne kadar güzel yaşandığı önemlidir."
+        },
+        {
+            "text": "Yüzümüzün ve gözlerimizin rengi ne olursa olsun, gözyaşlarımızın rengi aynıdır."
+        },
+        {
+            "text": "Kar taneleri ne güzel anlatıyor, birbirlerine zarar vermeden de yol almanın mümkün olduğunu."
+        },
+        {
+            "text": "Mükеmmеl kişiyi aramaktan vazgеç. Tеk ihtiyacın olan sana sahip olduğu için şanslı olduğunu düşünеn biridir."
+        },
+        {
+            "text": "Doğuştan sahip olduklarınızla yaşamayı öğrenmek bir süreç, bir katılım, yani yaşamınızın yoğrulmasıdır."
+        },
+        {
+            "text": "Aşktan korkmak, yaşamdan korkmak demektir ve yaşamdan korkanlar şimdiden üç kez ölmüşlerdir."
+        },
+        {
+            "text": "Bazı insanlar yağmuru hissеdеr, bazıları isе sadеcе ıslanır."
+        },
+        {
+            "text": "Hayattaki en büyük zafer hiçbir zaman düşmemekte değil, her düştüğünde ayağa kalkmakta yatar."
+        },
+        {
+            "text": "“Mutlu olmayı yarına bırakmak, karşıya geçmek için nehrin durmasını beklemeye benzer ve bilirsin, o nehir asla durmaz.” – Grange"
+        },
+        {
+            "text": "İnsanların, senin hakkında ne düşündüklerini önemsemeyerek, ömrünü uzatabilirsin mesela. – Bukowski"
+        },
+        {
+            "text": "Unutma; Hеr gеlеn sеvmеz.. Vе hiçbir sеvеn gitmеz. - Nazım Hikmеt"
+        },
+        {
+            "text": "Hiç bir canın acısı, sеnin acından az dеğildir."
+        },
+        {
+            "text": "Üstada sorarlar sеvgi mi nеfrеt mi diyе, “nеfrеt” diyе cеvap vеrir vе еklеr; çünkü onun sahtеsi olmaz."
+        },
+        {
+            "text": "Yanlış bildiğin yolda; hеrkеslе yürüyеcеğinе, doğru bildiğin yolda; tеk başına yürü…"
+        },
+        {
+            "text": "Büyük sıçrayışı gerçekleştirmek isteyen, birkaç adım geriye gitmek zorundadır. Bugün yarına dünle beslenerek yol alır. Bertolt Brecht"
+        },
+        {
+            "text": "Herşeyi denerim; ama yapabildiklerimi yaparım. Herman Melville"
+        },
+        {
+            "text": "Aşk bir kadının yaşamının tüm öyküsü, erkeğin ise yalnızca bir serüvenidir. Madama de Stael"
+        },
+        {
+            "text": "Niçin hep birlikte barış ve uyum içinde yaşamayalım? Hepimiz aynı yıldızlara bakıyoruz, aynı gezegenin üzerindeki yol arkadaşlarıyız ve aynı gökyüzünün altında yaşıyoruz. Aunius Aurelius Simachus"
+        },
+        {
+            "text": "Küçük işlere gereğinden çok önem verenler, elinden büyük iş gelmeyenlerdir.Eflatun"
+        },
+        {
+            "text": "Mutluluk elin erişebileceği çiçeklerden bir demet yapma sanatıdır.B.Goddar"
+        },
+        {
+            "text": "Mutluluk her şeyden önce vücut sağlığındadır.Curtis"
+        },
+        {
+            "text": "Ne kadar hazin bir çağda yaşıyoruz, bir önyargıyı ortadan kaldırmak atomu parçalamaktan daha güç."
+        },
+        {
+            "text": "Ne kadar yaşadığımız değil, nasıl yaşadığımız önemlidir."
+        },
+        {
+            "text": "Ne kadar yükselirsen, uçmayı bilmeyenlere o kadar küçük görünürsün."
+        },
+        {
+            "text": "O da gazi olmak istedi, fakat ona anlatmak gerekti ki, şehid olmayı göze alamayan gazi olamazdı."
+        },
+        {
+            "text": "O şekilde yaşamalısın ki, öldüğün zaman tabutçu bile matem tutsun."
+        },
+        {
+            "text": "Kötümserlik kanserden daha tehlikeli bir hastalıktır."
+        },
+        {
+            "text": "Saadet bizim dilediğimizle, Allah’ın bizim için dilediği şeyin bir araya gelmesinden doğar."
+        },
+        {
+            "text": "Ya başlamamalı, ya da bitirmeli.."
+        },
+        {
+            "text": "Kim ilim arama yolunda olursa, cennet de onu arama yolunda olur."
+        },
+        {
+            "text": "Kim kazanmazsa bu dünyada bir ekmek parası, dostunun yüz karası, düşmanının maskarası."
+        },
+        {
+            "text": "İnsanın mutluluğunun temeli hak ve adalet konusunda toplanır. Bir insana yapılan haksızlık bütün toplumu yaralar. Hak ve adalet hissi bireylerden başlamalıdır. Ve insan, bireyin mutluluğunun kendi mutluluğu için şart olduğuna inanmalıdır."
+        },
+        {
+            "text": "İster kral, ister köylü olsun, dünyada en mutlu insan evinde huzur olandır."
+        },
+        {
+            "text": "İyi adam olmak için kimseye fenalık etmemek yetmez,iyilik etmesinide bilmelidir."
+        },
+        {
+            "text": "Hayat bir öyküye benzer, önemli olan yanı eserin uzun olması değil, iyi olmasıdır."
+        },
+        {
+            "text": "Hayatta bir gayesi olmayan insanlar, bir nehir üzerinde akıp giden saman çöplerine benzerler; onlar gitmezler, ancak suyun akışına kapılırlar."
+        },
+        {
+            "text": "Hekimlerin yaptığı en büyük hata ruhu düşünmeden yalnız bedeni tedaviye teşebbüs etmeleridir."
+        },
+        {
+            "text": "Her başarı ilk başta bir hayaldi. En büyük çınar bir dalda, en güzel kuş bir yumurtada saklıdır. Hayaller de gerçeklerin tohumu ve yumurtasıdır."
+        },
+        {
+            "text": "Herkes insanlığı değiştirmeyi düşünür. Ama kimse önce kendisini değiştirmeyi düşünmez."
+        },
+        {
+            "text": "Hiçbir zaman çıktığın kapıyı hızlı çarpma. Geri dönmek isteyebilirsin."
+        },
+        {
+            "text": "İki nimet vardır ki,insanlar onların kıymetini hakkıyla takdir edemezler.Onlardan biri sıhhat,diğeri de boş vakittir."
+        },
+        {
+            "text": "Her münakaşanın temelinde birisinin cahilliği yatar."
+        },
+        {
+            "text": "İki şey aklın eksikliğini gösterir: Konuşulacak yerde susmak, susulacak yerde konuşmak."
+        },
+        {
+            "text": "İlim aşağıdakileri yükseltir,cahillik yüksektekileri alçaltır."
+        },
+        {
+            "text": "Herkes aynı şeyi düşünüyorsa,hiç kimse fazla bir şey düşünmüyor demektir."
+        },
+        {
+            "text": "Herkes evinin önünü süpürürse sokaklar temiz olur."
+        },
+        {
+            "text": "Hayattan korkmayın çocuklar;iyi ve doğru bir şeyler yaptığınız zaman hayat öyle güzel ki.."
+        },
+        {
+            "text": "İyiliğinize inanılmasını istiyorsanız,ondan hiç söz etmeyin."
+        },
+        {
+            "text": "İyi görüneceğine, iyi ol."
+        },
+        {
+            "text": "“Sizi yıpratan insanlardan sessizce uzaklaşın.” Albert Camus"
+        },
+        {
+            "text": "\"\"\"Şükretmeyi öğrenmeyen nankör elbette şikâyet eder\"\" Eddi Anter\""
+        },
+        {
+            "text": "Adalet topaldır, ağır ağır yürür, fakat gideceği yere er geç varır. Mirabeau"
+        },
+        {
+            "text": "Akıllı adam aklını kullanır. Daha akıllı adam başkalarının da aklını kullanır. Bernard Shaw"
+        },
+        {
+            "text": "Akıllı görünme çabası, çoğu zaman akıllı olmayı engeller. La Rochefoucauld"
+        },
+        {
+            "text": "Aklın güzelliği dil ile, dilin güzelliği söz ile, kişinin güzelliği yüz ile, yüzün güzelliği göz ile belli olur. Yusuf Has Hacip"
+        },
+        {
+            "text": "Alkış zayıfların amacı ve sonudur. C.Colton"
+        },
+        {
+            "text": "Alkışı en sessiz karşılayan,alkışı haketmiş demektir. Emerson"
+        },
+        {
+            "text": "Anı yazmak, ölümün elinden bir şey kurtarmaktır. Andre Gide"
+        },
+        {
+            "text": "Aptalın sevgisi, ayının sevgisidir; kini sevgidir, sevgisi kindir. Mevlana"
+        },
+        {
+            "text": "Ayakta ölmek, diz üstü yaşamaktan daha iyidir. G.Washington"
+        },
+        {
+            "text": "Bana arkadaşını söyle,sana kim olduğunu söyleyeyim. Cervantes"
+        },
+        {
+            "text": "Başarılarını gizlemek, en büyük başarıdır. La Rochefoucauld"
+        },
+        {
+            "text": "Başarının sırrı , uğraşılan konuya hakim olmaktır. Benjamin Disraeli"
+        },
+        {
+            "text": "Başkalarını hep bağışla, kendini hiç bağışlama. Syrus"
+        },
+        {
+            "text": "Başkalarının bilgisi ile bilgin olsak bile ancak kendi aklımızla akıllı olabiliriz. Montaigne"
+        },
+        {
+            "text": "Başkası düştü mü çürük tahtaya basmasaydı deriz. Kendimiz düşünce,bastığımız tahtanın çürük olmasından şikayet ederiz. Cenab Şahabettin"
+        },
+        {
+            "text": "Başkasından üstün olmamız önemli değildir. Asıl önemli olan şey, dünkü halimizden üstün olmamızdır. Hint Atasözü"
+        },
+        {
+            "text": "Herkesin üç kişiliği vardır; Ortaya çıkardığı , sahip olduğu , sahip olduğunu sandığı. Alphonse Karr"
+        },
+        {
+            "text": "İyi dostu olanın aynaya gereksinimi yoktur. Mevlana"
+        },
+        {
+            "text": "Rüyaları gerçekleştirmenin en iyi yolu uyanmaktır. S.M.Power"
+        },
+        {
+            "text": "Büyük adamların hataları güneş tutulmasına benzer, onları herkes görür. Cucong"
+        },
+        {
+            "text": "Boş zaman yoktur boşa geçen zaman vardır. Tagore"
+        },
+        {
+            "text": "Acınmaktansa kıskanılmak daha iyidir. Heredot"
+        },
+        {
+            "text": "Doğruluk sonsuzluğun güneşidir, nasıl olsa doğar. Nasıl olsa doğar"
+        },
+        {
+            "text": "Bilgi büyük adamı alçak gönüllü yapar, normal adamı şaşırtır, küçük adamı ise kibirlendirir. Brigitte"
+        },
+        {
+            "text": "Bilgi cesaret verir, cehalet küstahlık. Terry"
+        },
+        {
+            "text": "Bilgi insanı kuşkudan, iyilik acı çekmekten, kararlı olmak da korkudan kurtarır. Konfüçyüs"
+        },
+        {
+            "text": "Bilginin efendisi olmak için çalışmanın uşağı olmak gerekir. Honore De Balzac"
+        },
+        {
+            "text": "Bilginin olduğu yerde bilenler, aklın olduğu yerde düşünenler vardır. Yusuf Has Hacip"
+        },
+        {
+            "text": "Bilgisiz bir kimse savaş davuluna benzer, sesi çok, içi boştur. Sadi"
+        },
+        {
+            "text": "Bilgisizlik kolay ve rahat elde edildiği için çoğunluk bilgisizdir. La Bruyere"
+        },
+        {
+            "text": "Bir çivi yüzünden bir nal, bir nal yüzünden bir at, bir at yüzünden de bir atlı gidiverir. Franklin"
+        },
+        {
+            "text": "Bir dert atlatıldıktan sonra, insana bir kazanç olur. Goethe"
+        },
+        {
+            "text": "Bir devlet adamının kalbi kafasında olmalıdır. Napoleon"
+        },
+        {
+            "text": "Bir güzel söz söyleme sanatı varsa, bir de güzel anlama ve dinleme sanatı vardır. Epiktetos"
+        },
+        {
+            "text": "Bir insan hayranlık duyup sevebildiği sürece sonsuza kadar genç demektir. Pablo Casals"
+        },
+        {
+            "text": "Bir insan köprü kurar, bin insan geçer. Özbek Atasözü"
+        },
+        {
+            "text": "Bir insan parmağını başkasına uzatınca, üç parmağın da kendisine uzatıldığını unutmamalıdır. Louis Nizer"
+        },
+        {
+            "text": "Bir kapının kapalı olduğunu anlamak için o kapıyı itmek gerekir. Montaigne"
+        },
+        {
+            "text": "Bir öğretmen ebediyete hükmeden insandır. Tesirlerinin nerede biteceği asla bilinemez. Henry Adams"
+        },
+        {
+            "text": "Bir şeye ait her şeyi öğrenin; her şeye dair bir şeyler bilin. Var Dyke"
+        },
+        {
+            "text": "Bir şeyi ezberlemek, bilmek demek değildir. Montaigne"
+        },
+        {
+            "text": "Bir ülkede okumaya karşı istek artmadıkça, gaflet ve bundan doğacak felaket azalmaz. B. Franklin"
+        },
+        {
+            "text": "Birini taklit etmek, onu övmenin en samimi şeklidir. Colton"
+        },
+        {
+            "text": "Boş bir çuvalın dik durması zordur. Benjamin Franklin"
+        },
+        {
+            "text": "Boşuna kendinizi kandırmayın; sürekli yaptığınız şey neyse siz osunuz… Aristo"
+        },
+        {
+            "text": "Büyük adamların hatası, güneş tutulmasına benzer, onları herkes görür. Cu Kong"
+        },
+        {
+            "text": "Büyük işler sanki hiç ölmeyecekmiş gibi çalışmakla başarılabilir. Vanvenarues"
+        },
+        {
+            "text": "Cahil kimsenin yanında kitap gibi sessiz ol! Mevlana"
+        },
+        {
+            "text": "Cahilliğin eyleme geçişinden daha korkunç bir şey yoktur. Goethe"
+        },
+        {
+            "text": "Camdan evde oturanlar başkalarına taş atmamalıdırlar. George Herbert"
+        },
+        {
+            "text": "Can sıkıntısı Dünya’ya tembellikle beraber gelmiştir. La Bruyere"
+        },
+        {
+            "text": "Cehalet her zaman kendisine hayran olmaya hazırdır. Santra Guitry"
+        },
+        {
+            "text": "Çevrendekileri alçaltarak değil,kendini gerçekten yücelterek büyüyebilirsin. Reich"
+        },
+        {
+            "text": "Daima ara, bugün altın ararken bakır bulursun, yarın bakır ararken altın. Cenap Şahabettin"
+        },
+        {
+            "text": "Deniz gibi mal kazan, fakat sen üzerinde gemi ol. Mevlana"
+        },
+        {
+            "text": "Dili ve sözü bir olmayan kimsenin yüz dili bile olsa o, yine dilsiz sayılır. Mevlana"
+        },
+        {
+            "text": "Dostlarımızdan şüphelenmek, onların ihanetinden çok daha utanç vericidir. La Rochefoucauld"
+        },
+        {
+            "text": "Dostlarımla beraber olduğum zaman yalnız değilim. O dakikadan sonra da iki kişi değiliz. Pisagor"
+        },
+        {
+            "text": "Dün yaptığınız şey size hala çok iyi görünüyorsa, bugün yeterli değilsiniz demektir. Earle Wilson"
+        },
+        {
+            "text": "Dünya, sonsuzluk içinde küçük bir parantezdir. Thomas Browne"
+        },
+        {
+            "text": "Dürüst insan her zaman gerçeği söyler, akıllı insan ise yalnız zamanında. Bernard Shaw"
+        },
+        {
+            "text": "Düşünceler güçle,top ve tüfekle asla öldürülemez. M.Kemal ATATÜRK"
+        },
+        {
+            "text": "Düşüncelerle karşılaşınca, zayıflar korkar, aptallar karşı gelir, akıllılar karar verir, ustalar da yönetir. Mme Jeanne Roland"
+        },
+        {
+            "text": "Düşünme zihnin işi, hayal ise zevkidir. Düşünme yerine hayal etmek, zehiri besinden ayırt edememektir. Victor Hugo"
+        },
+        {
+            "text": "Düşünmeden öğrenmek faydasız, öğrenmeden düşünmek tehlikelidir. Konfüçyüs"
+        },
+        {
+            "text": "Eğer herkes, dost sandığı kimselerin kendi arkasından söylemiş olduklarını duymuş olsaydı, dünyada dost kalmazdı. Pascal"
+        },
+        {
+            "text": "Eğer ırmakta su kalmamışsa, bu kanalın değil, kaynağın suçudur. St Jerome"
+        },
+        {
+            "text": "Eğitimin kökleri acı fakat meyveleri tatlıdır. Aristotale"
+        },
+        {
+            "text": "Elmas nasıl yontulmadan mükemmelleşmezse, insan da acı çekmeden olgunlaşmaz. Konfüçyüs"
+        },
+        {
+            "text": "En büyük mutluluk, hür düşünceli olmaktır. Anatole France"
+        },
+        {
+            "text": "En çok yaşamış olan, uzun seneler yaşamış olan değil, hayatın manalarını en fazla anlamış olan insandır J. J. Rousseau"
+        },
+        {
+            "text": "Erişmek istedikleri bir hedefi olmayanlar, çalışmaktan zevk almazlar. Emile Raux"
+        },
+        {
+            "text": "Ey soğuk, hareketlen ki ısınasın, sertliğe alış ki yumuşayasın. Mevlana"
+        },
+        {
+            "text": "Gençken bilgi ağacını dikelim ki, yaşlandığımız zaman gölgesinde barınacak bir yerimiz olsun. Chesterfield"
+        },
+        {
+            "text": "Gerçek bilgi, yaparak ve denenerek öğrenilen bilgidir. Descartes"
+        },
+        {
+            "text": "Gerçek doktor, her hasta ile yaşayıp ölendir. Stefan Zweig"
+        },
+        {
+            "text": "Gerilimle başa çıkmanın iki yolu vardır: Birincisi, küçük şeylere iltifat etmemektir. İkincisi, her şey küçüktür. A.Robbins"
+        },
+        {
+            "text": "Gideceğiniz yeri bilmiyorsanız, vardığınız yerin önemi yoktur. Peter F.Drucker"
+        },
+        {
+            "text": "Güçlükler, başarının değerini artıran süslerdir. Moliere"
+        },
+        {
+            "text": "Güzel bir şey,her zaman iyi değildir; ama iyi bir şey her zaman güzeldir. Ninpn De L’enclos"
+        },
+        {
+            "text": "Güzel yüz aynaya aşıktır. Mevlana"
+        },
+        {
+            "text": "Haksızlığın karşısında susan dilsiz şeytandır. Hadis-i Şerif"
+        },
+        {
+            "text": "Halkı bir tek insan, bir tek insanı bütün halk gibi gör. Montaigne"
+        },
+        {
+            "text": "Hatayı açıkça görmek insanı harekete geçirir. İnsan ancak düştüğünü fark ederse ayağa kalkabilir. Alex Carrel"
+        },
+        {
+            "text": "Hayat bir öyküye benzer, önemli olan yanı eserin uzun olması değil, iyi olmasıdır. Seneca"
+        },
+        {
+            "text": "Hayat geç kalanları hiç affetmez. Gorbachov"
+        },
+        {
+            "text": "Hedefi olmayan gemiye hiçbir rüzgar yardım edemez. Montaigne"
+        },
+        {
+            "text": "Her bildiğini söyleme, her söylediğini bil. Clavdius"
+        },
+        {
+            "text": "Her kapıyı açmanın kestirme yolu habire anahtar aramak değil, anahtar adam olabilmektir. R.Ş.Apuhan"
+        },
+        {
+            "text": "Her kitaplık bir hapishaneyi kapatır. Seneca"
+        },
+        {
+            "text": "Her münakaşanın temelinde birisinin cahilliği yatar. Louis D. Brandeis"
+        },
+        {
+            "text": "Herkes aynı şeyi düşünüyorsa, hiç kimse fazla bir şey düşünmüyor demektir. W.Lippmann"
+        },
+        {
+            "text": "Herkes insanlığı değiştirmeyi düşünür. Ama kimse önce kendisini değiştirmeyi düşünmez. V.Hugo"
+        },
+        {
+            "text": "Herkesi bir defa, bazılarını her zaman aldatabilirsiniz.Ama herkesi her zaman aldatamazsınız. Abraham Lincoln"
+        },
+        {
+            "text": "Hırs, bir sandalın yelkenini şişiren rüzgara benzer; fazlası gemiyi batırır, azı da gemiyi olduğu yerde tutar. Woltaire"
+        },
+        {
+            "text": "Hiç bir şey insan kadar yükselemez ve onun kadar alçalamaz. Hölderlin"
+        },
+        {
+            "text": "Hiç kimse başarı merdivenine elleri cebinde tırmanmamıştır. J.Keth Moorhead"
+        },
+        {
+            "text": "Hiç kimse duymak istemeyen biri kadar sağır olamaz. W.Shakspeare"
+        },
+        {
+            "text": "Hiç kimse, başarı merdivenine elleri cebinde tırmanmamıştır. J.K.Moorhead"
+        },
+        {
+            "text": "Hiçbir zaman çıktığın kapıyı hızlı çarpma. Geri dönmek isteyebilirsin. Don Herold"
+        },
+        {
+            "text": "İki şey aklın eksikliğini gösterir: Konuşulacak yerde susmak, susulacak yerde konuşmak. Sadi"
+        },
+        {
+            "text": "İlim aşağıdakileri yükseltir, cahillik yüksektekileri alçaltır. Sokrates"
+        },
+        {
+            "text": "İnsan ancak yüreğiyle baktığı zaman gerçeği görebilir. Gerçeğin mayası gözle görülmez. Exupery"
+        },
+        {
+            "text": "İnsan diliyle değil, yaptığı işlerle konuşmalı. Stehr"
+        },
+        {
+            "text": "İnsan ne kadar yükselirse, gönlü o kadar alçalmalıdır. Cicero"
+        },
+        {
+            "text": "İnsan ne söylediğini bilmeli, fakat her bildiğini söylememelidir. Namık Kemal"
+        },
+        {
+            "text": "İnsan, ancak sevdiğinden bir şey öğrenir. Goethe"
+        },
+        {
+            "text": "İnsanın şerefiyle yaşayabilmesi için en kısa ve en emin yol, olduğu gibi görünmektir. Sokrat"
+        },
+        {
+            "text": "İnsanlar ancak hayalleriyle yaşar ve biraz yaşamaya başlayınca tüm hayallerini kaybederler. Voltaire"
+        },
+        {
+            "text": "İnsanlar rakamlara benzer, durumlarına göre değer kazanırlar. Napoleon"
+        },
+        {
+            "text": "İnsanlar yanlış yapabilirler, yalnız büyük insanlar yanlışlarını anlarlar. F.Von Kotzebue"
+        },
+        {
+            "text": "İnsanlar, kötülük karşısında kararsız kalmak hakkına sahip değildirler. Maday"
+        },
+        {
+            "text": "İnsanları niçin öldürüyorsunuz, biraz bekleyin zaten ölecekler. Konfüçyüs"
+        },
+        {
+            "text": "İyi görüneceğine, iyi ol. Sallust"
+        },
+        {
+            "text": "İyi olan tek şey bilgi ve kötü olan tek şey de cehalettir. Sokrates"
+        },
+        {
+            "text": "İyiliğinize inanılmasını istiyorsanız, ondan hiç söz etmeyin. Blaise Pascal"
+        },
+        {
+            "text": "İyiyi yapabildiği halde yapmayan bir insan, suç işlemiş olur. Pestolozzi"
+        },
+        {
+            "text": "Kağıda dokunan kalem, kibritten daha çok yangın çıkarır. S.Fobes"
+        },
+        {
+            "text": "Kaptanın ustalığı deniz durgunken anlaşılmaz. Lukuanos"
+        },
+        {
+            "text": "Karanlığa küfretmektense, bir küçük ışık yakın, daha iyi edersiniz. Andre Gide"
+        },
+        {
+            "text": "Kaybedilmiş günlerin en kötüsü, bir defacık olsun, gülmeden geçilenidir. Chamfort"
+        },
+        {
+            "text": "Kendi kendinin mutluluğuna engel olmak yolunda insan fevkalade beceriklidir. Andre Gide"
+        },
+        {
+            "text": "Kendini herkese uydurmak için yontmaya koyulanlar, sonunda yontula yontula tükenip giderler. R. Hull"
+        },
+        {
+            "text": "Kıyıyı gözden kaybetmeye cesaret etmedikçe insan yeni okyanuslar keşfedemez. Andre Gide"
+        },
+        {
+            "text": "Kibir bele bağlanan taş gibidir, onunla ne yüzülür, ne de uçulur. Hacı Bayram-ı Veli"
+        },
+        {
+            "text": "Kim kazanmazsa bu dünyada bir ekmek parası, dostunun yüz karası, düşmanının maskarası. M.Akif Ersoy"
+        },
+        {
+            "text": "Kitaplardan önce kendimizi okumaya çalışalım. Mevlana"
+        },
+        {
+            "text": "Komşunu sev ama bahçe duvarını yıkma. G. Herbert"
+        },
+        {
+            "text": "Kötümserlik kanserden daha tehlikeli bir hastalıktır. Muhsin Ertuğrul"
+        },
+        {
+            "text": "Kurbağayı koltuğa oturtsan,o yine çamura atlar. Arthur Miller"
+        },
+        {
+            "text": "Kurnaz insanlar, okumayı küçümserler, basit insanlar ona hayran olurlar akıllı insanlar ise ondan faydalanırlar. Francis Bacon"
+        },
+        {
+            "text": "Kusursuz dost arayan dostsuz kalır. Mevlana"
+        },
+        {
+            "text": "Küçük işlere gereğinden çok önem verenler, elinden büyük iş gelmeyenlerdir. Eflatun"
+        },
+        {
+            "text": "Metodu olan topal, metotsuz koşandan daha çabuk ilerler. Francis Bacon"
+        },
+        {
+            "text": "Mutluluğu tatmanın tek çaresi, onu paylaşmaktır. Byron"
+        },
+        {
+            "text": "Mutluluk her şeyden önce vücut sağlığındadır. Curtis"
+        },
+        {
+            "text": "Ne kadar bilirsen bil, anlatabildiklerin, karşındakinin anlayabileceği kadardır. Mevlana"
+        },
+        {
+            "text": "Ne kadar hazin bir çağda yaşıyoruz, bir önyargıyı ortadan kaldırmak atomu parçalamaktan daha güç. Albert Einstein"
+        },
+        {
+            "text": "Ne kadar yaşadığımız değil, nasıl yaşadığımız önemlidir. Bailey"
+        },
+        {
+            "text": "Ne kadar yükselirsen, uçmayı bilmeyenlere o kadar küçük görünürsün. Nietzche"
+        },
+        {
+            "text": "O da gazi olmak istedi, fakat ona anlatmak gerekti ki, şehid olmayı göze alamayan gazi olamazdı. Arif Nihat Asya"
+        },
+        {
+            "text": "O şekilde yaşamalısın ki, öldüğün zaman tabutçu bile matem tutsun. Mark Twain"
+        },
+        {
+            "text": "Öğretmek,iki defa öğrenmek demektir. J.Joured"
+        },
+        {
+            "text": "Öğüt vermek kolay, örnek olmak zordur. La Rochefaucauld"
+        },
+        {
+            "text": "Önce kendi gideceğin yolu öğren sonra öğretmeye kalk. Buddha"
+        },
+        {
+            "text": "Önemli olan yere düşüp düşmemen değil, tekrar ayağa kalkıp kalkmamandır. Vince Lombardini"
+        },
+        {
+            "text": "Paylaşılan bir sevinç iki kat olur, paylaşılan bir acı yarıya iner. Cicero"
+        },
+        {
+            "text": "Propaganda öyle bir sanattır ki, insan başkasının ayağına basarken kendisi “ah” der. Bob Hope"
+        },
+        {
+            "text": "Rüyaları gerçekleştirmenin en kısa yolu uyanmaktır. Emerson"
+        },
+        {
+            "text": "Sabahleyin kaybedeceğin bir saatin bütün gün zararını çekersin. William Whately"
+        },
+        {
+            "text": "Siz kendinize inanın, başkaları da size inanacaktır. Montaigne"
+        },
+        {
+            "text": "Sorumluluğunu taşıyacağın fikrin adamı ol. A.Hamdi Tanpınar"
+        },
+        {
+            "text": "Söz yuva gibidir, mana kuş gibi , cisim ırmak gibidir ruh akıp giden su gibidir. Mevlana"
+        },
+        {
+            "text": "Şüphe, çoğunlukla faydası olmayan bir ıstıraptır. Samuel Hohnson"
+        },
+        {
+            "text": "Tanrım, beni dostlarıma karşı koru, kendimi düşmanlarıma karşı korurum. Voltaire"
+        },
+        {
+            "text": "Türkler her şeyini feda eder, ama istiklalini asla. Lloyd George"
+        },
+        {
+            "text": "Türkler öldürülebilir, fakat yenilgiye uğratılamazlar. Napeleon"
+        },
+        {
+            "text": "Umutla yolculuk etmek, gidilecek yere varmaktan çok daha güzeldir. Robert Louis Stevenson"
+        },
+        {
+            "text": "Unutulmak istemiyorsan, ya okunacak şeyler yaz ya da yazılmaya değer şeyler yap. Benjamin Franklin"
+        },
+        {
+            "text": "Ümidini kaybetmiş olanın başka kaybedecek bir şeyi yoktur. Bois"
+        },
+        {
+            "text": "Verilmesi en kolay şey nasihat, alınması en güç şey ibrettir. Droz"
+        },
+        {
+            "text": "Ya başlamamalı, ya da bitirmeli. Ovidius"
+        },
+        {
+            "text": "Ya bir yol bul, ya bir yol aç, ya da yoldan çekil. Konfüçyüs"
+        },
+        {
+            "text": "Ya ümit sizsiniz, ya ümitsizsiniz. Behçet Necatigil"
+        },
+        {
+            "text": "Yalnızlık paylaşılmaz, paylaşılsa yalnızlık olmaz. Özdemir Asaf"
+        },
+        {
+            "text": "Yanılgı insanlar içindir; ancak silginiz kaleminizden önce bitiyorsa, fazlaca yanlış yapıyorsunuz demektir. J. Jenkins"
+        },
+        {
+            "text": "Yapılırken heyecan duyulmayan işler başarılamaz. Emerson"
+        },
+        {
+            "text": "Yarın sabah,ne sevdiğiniz kişilerin yüzleri ne de kendi yüzünüz aynı olacaktır. Leo Buscaglia"
+        },
+        {
+            "text": "Yaşamak için yemelisin, yemek için yaşamamalısın. Cicero"
+        },
+        {
+            "text": "Yaşamın uzunluğu değil, nasıl yaşanıldığı önemlidir. M.L.King"
+        },
+        {
+            "text": "Yazana zahmet vermeyen yazı, okuyana da zevk vermez. S.Johnson"
+        },
+        {
+            "text": "Yerinde söz söyleyen, özür dilemek zorunda kalmaz. Fatih Sultan Mehmet"
+        },
+        {
+            "text": "Yeteri kadar nedeniniz varsa, herşeyi yapabilirsiniz. Jim Rohn"
+        },
+        {
+            "text": "Yıpranmak paslanmaktan iyidir. Bishop Cumberland"
+        },
+        {
+            "text": "Yiğitlik intikam almak değil, tahammül etmektir. Shaekespeare"
+        },
+        {
+            "text": "Yüksek tepelerde hem yılana, hem kuşa rastlanır; birisi sürünerek, öteki uçarak yükselmiştir. Cenab Şahabettin"
+        },
+        {
+            "text": "Yüzünü Güneşe çeviren insan, gölge görmez. Helen Keller"
+        },
+        {
+            "text": "Zamanında bir adım atmayan tembel, sonradan yüz adım atmak zorunda kalır. Giovio"
+        },
+        {
+            "text": "Söylesem tesiri yok, sussam gönül razı değil. Fuzuli"
+        },
+        {
+            "text": "Eline, beline, dilini sahip ol. Hacı Bektaş-ı Veli"
+        },
+        {
+            "text": "Ben hayatımın hiçbir anında karamsarlık nedir tanımadım. (Mustafa Kemal Atatürk)"
+        },
+        {
+            "text": "Güleryüz, tatlı dil ve sır saklamak, başarının temel prensiplerindendir. (II. Abdülhamid)"
+        },
+        {
+            "text": "İyi bir başlangıç, yarı yarıya başarı demektir. (Andre Gide)"
+        },
+        {
+            "text": "Başarının şartları; bilmek, istemek, cüret etmek ve susmak. (Axel Munthe)"
+        },
+        {
+            "text": "Güzel bir düşünce ibadet sayılır. (Ahmet İbşihi)"
+        },
+        {
+            "text": "Başarıyı ölçebilmek için bir insanın ulaştığı noktaya değil, başarmak için aştığı engellere bakılması gerektiğini öğrendim. (Booker T. Washington)"
+        },
+        {
+            "text": "Başarı, her şeyi temizleyen altın yaldızlı bir alevdir. (Emile Zola)"
+        },
+        {
+            "text": "Baş + arı: ‘’Baş’’ olmak için ‘’arı’’ gibi çalışmak gerekir. (Mümin Sekman)"
+        },
+        {
+            "text": "İnsanlar öğrenme dürtüsüyle doğarlar. Öğrenmeye karşı merak ve bundan duyulan zevk insanın doğasında vardır. Bunlar bebeklikten başlayarak zamanla yok edilir. (W. E. Deming)"
+        },
+        {
+            "text": "Düşünme ve söylemek kolay, fakat yaşamak, hele başarı ile sonuçlandırmak zordur. (Ziya Gökalp)"
+        },
+        {
+            "text": "Başarının yolu, konuşmayı bırakmak ve yapmaya başlamaktır. (Walt Disney)"
+        },
+        {
+            "text": "Devler gibi eseler bırakmak için, karıncalar gibi çalışmak lazım. (Necip Fazıl Kısakürek)"
+        },
+        {
+            "text": "Başarı bir yolculuktur, varış noktası değil. (Ben Sweetland)"
+        },
+        {
+            "text": "Başarının yüzde 80’i, başarınızı gösterebilmekten geçer. (Woody Allen)"
+        },
+        {
+            "text": "Başarı, yaptığınız işi kendinize has bir stil ile yapmaktır. (Maya Angelou)"
+        },
+        {
+            "text": "İletişim, insan bağlantısı, kişisel başarının anahtarıdır. (Paul J. Meyer)"
+        },
+        {
+            "text": "Takım oyunu oynamak başarıya giden yoldur. En iyi oyuncu sen olabilirsin, ama birlikte oynamazsan, tökezlediğinde yardım edecek biri olmayacak. (Mark Twain)"
+        },
+        {
+            "text": "Başarı zihinsel bir durumdur. Başarılı olmak istiyorsanız, kendinizi başarılı bir insan olarak düşünün. (Joyce Kardeşler)"
+        },
+        {
+            "text": "Bir başarıya bakma. Başarı için ne kadar çok hedeflerseniz ve onu hedefe dönüştürürseniz, o kadar hızlı başarısız olursunuz. Çünkü başarı kadar mutluluk da zulüm göremez. (Viktor E. Frakl)"
+        },
+        {
+            "text": "Şimdi kaç yaşında olman önemli değil. Başarabilmek için ne kadar genç ya da yaşlısın, ne istersen takip et. (Pablo Picasso)"
+        },
+        {
+            "text": "Kendinizi tanıyıp ifade etmek onu inkar etmekten çok daha kolaydır ve başarırsanız liderlikle ödüllendirilirsiniz. (Warren Bennis)"
+        },
+        {
+            "text": "Başarıya ulaşıp sıçrama yapan bireyler, aynı zamanda değişimin ustaları olacaklardır. (Kanter)"
+        },
+        {
+            "text": "Hepimiz zamanın kısalığından söz ederiz de; boş geçen zamanı nasıl geçirdiğimizi bilmeyiz. (Seneca)"
+        },
+        {
+            "text": "Plansız çalışan kimse, ülke ülke dolaşıp hazine arayan kişiye benzer. (Descartes)"
+        },
+        {
+            "text": "İnsan bir şeyi, çok ciddi olarak arzu etmeyi görsün, hiçbir şey erişmeyecek kadar yüksekte değildir. (Hans C. Andersen)"
+        },
+        {
+            "text": "Başarıya ulaşamayanların yüzde 90’ı yenilgiye uğramamıştır. Sadece pes etmişlerdir. (Paul J. Meyer)"
+        },
+        {
+            "text": "Batan güneş için ağlayın, yeniden doğduğunda ne yapacağınıza karar verin. (Dale Carnegie)"
+        },
+        {
+            "text": "İnsanın sağlığını koruyan iki faktör vardır. İşini sevmesi ve hayatı sevmesi. (Sigmund Freud)"
+        },
+        {
+            "text": "Cesaretimi kaybetmiyorum; çünkü vazgeçilen her bir yanlış girişim ileri doğru atılmış yeni bir adımdır. (Thomas Edison)"
+        },
+        {
+            "text": "Kişisel başarı için televizyonunuzu öldürün. (Steve Chandler)"
+        },
+        {
+            "text": "Tembel insan yoktur. Sadece kendisine kesin kaynağı oluşturacak kadar güçlü amaçları olmayan insanlar vardır. (Tony Robbins)"
+        },
+        {
+            "text": "Dünyada yeteneksiz insan yoktur. Sadece iyi eğitilmemiş ve iyi yönlendirilmemiş insan vardır. (Angle Peatri)"
+        },
+        {
+            "text": "Gücünü aşan rolü üzerine alırsan, bu rolü iyi oynamadığın gibi yapabileceğin rolü de terk etmiş olursun. (Epiktetos)"
+        },
+        {
+            "text": "Pek çok konuda başarı, başarmanın ne kadar vakit alacağını bilmeye bağlıdır. (Montesqieu)"
+        },
+        {
+            "text": "Ölçülebileni ölç, ölçülemeyeni ölçülebilir yap. Doğanın kitabı matematiksel bir dille yapılmıştır. (Galileo)"
+        },
+        {
+            "text": "Bir gemi doğuya gider, biri batıya. Esen aynı rüzgarla: hangi yöne gidebileceğini belirleyen rüzgar değil, yelkendir. (Ella Wheeler Wilcox)"
+        },
+        {
+            "text": "Benim kuşağımın yaptığı en büyük keşiflerden biri, insanın düşüncelerini değiştirerek yaşamını da değiştirebileceği gerçeğini bulmasıdır. (William James)"
+        },
+        {
+            "text": "Akıl kendi başına cenneti cehennem, cehennemi de cennet yapabilir. (John Milton)"
+        },
+        {
+            "text": "Büyük adamlar olmazsa hiçbir şey başarılmaz, insanlar da ancak karar verilirse büyük olabilirler. (Schopenhauer)"
+        },
+        {
+            "text": "Eğer sizde deha varsa çalışkanlık bunu inkişaf ettirir. Eğer yoksa yerini doldurur. (Reynolds)"
+        },
+        {
+            "text": "Limiti koyan zihindir. Zihin bir şeyi yapabileceğini kestirebildiği kadar başarılı olur. Yüzde 100 inandığınız sürece her şeyi yapabilirsiniz. (Arnold Schwarzenegger)"
+        },
+        {
+            "text": "Yapmak istediğin her şeyi düşünerek karar ver, verdiğin kararı da mutlaka gerçekleştir. (Benjamin Franklin)"
+        },
+        {
+            "text": "Bilgi insanı şüpheden, iyilik acı çekmekten, kararlı olmak korkudan kurtarır. (Konfüçyus)"
+        },
+        {
+            "text": "Çalışanlar, kötülük düşünmeye vakit bulamazlar. Çalışmayanlar ise, kendilerini kötülükten kurtaramazlar. (Hz. Ali)"
+        },
+        {
+            "text": "Bir milletin büyüklüğü, nüfusunun çokluğu ile değil, akıllı ve fazilet sahibi adamlarının sayısı ile belli olur. (Victor Hugo)"
+        },
+        {
+            "text": "Başarı insana belki çok şey öğretmez, fakat başarısızlık çok şey öğretir. (Çin Atasözü)"
+        },
+        {
+            "text": "Büyük aşkların ve büyük başarıların büyük riskler içerdiğini unutma. Kim iyi yaşamış, bol bol gülmüş ve çok sevmişse, başarıyı yakalamış demektir. (Bessie Anderson Stanley)"
+        },
+        {
+            "text": "En sıradan iş bile büyük başarılar getirme potansiyeline sahiptir. (H. Jackson Brown)"
+        },
+        {
+            "text": "Hayatta başarılı olanlar, kendilerine gereken bilgileri öğrenmekten bir an geri kalmazlar ve hadislerin sebeplerini her zaman araştırırlar. (Rudyard Kipling)"
+        },
+        {
+            "text": "İlim ilim bilmektir, ilim kendin bilmektir. Sen kendini bilmezsen ya nice okumaktır. (Yunus Emre)"
+        },
+        {
+            "text": "Ne kadar bilirsen bil, söylediklerin karşıdakilerin anlayabileceği kadardır. (Mevlana)"
+        },
+        {
+            "text": "Dünyada birçok kabiliyetli kişiler, küçük bir cesaret sahibi olmadıkları için kaybolurlar. (Sydney Smith)"
+        },
+        {
+            "text": "Aradığını bilmeyen bulduğunu anlayamaz. (Claude Bernard)"
+        },
+        {
+            "text": "Hata değil çare bulun. (Henry Ford)"
+        },
+        {
+            "text": "Bir şey biliyorum, o da hiçbir şey bilmediğimdir. (Sokrates)"
         }
     ]
 }
