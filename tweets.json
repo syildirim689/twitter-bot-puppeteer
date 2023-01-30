@@ -1,0 +1,13 @@
+{
+    "tweets": [
+        {
+            "text": "I'm a tweet!"
+        },
+        {
+            "text": "I'm another tweet!"
+        },
+        {
+            "text": "I'm a third tweet!"
+        }
+    ]
+}
