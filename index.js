@@ -8,8 +8,6 @@ require('dotenv').config()
 const username = process.env.TWITTER_USERNAME
 const password = process.env.TWITTER_PASSWORD
 
-console.log(username + " " + password)
-
 //puppeteer kütüphanesini kullanarak tarayıcıyı başlatıyoruz.
 let browser = null
 let page = null
@@ -52,6 +50,7 @@ async function twitterLogin() {
         )
     } catch (error) {
         console.log(error)
+        browser.close()
     }
 }
 
@@ -80,24 +79,68 @@ async function tweetLike() {
     try {
         await twitterLogin()
         console.log("Tweet beğenme alanına yönlendiriliyor...")
-        await page.goto('https://twitter.com/gitresmi', { waitUntil: 'networkidle2' })
+        await page.goto('https://twitter.com/gitresmi/with_replies', { waitUntil: 'networkidle2' })
         console.log("Tweet beğeniliyor...")
-        // await page.evaluate(() => {
-        //     window.scrollBy(0, 1000)
-        // })
-        await page.waitForSelector('svg[class="r-4qtqp9 r-yyyyoo r-1xvli5t r-dnmrzs r-bnwqim r-1plcrui r-lrvibr r-1hdv0qi"]')
-        await page.click('svg[class="r-4qtqp9 r-yyyyoo r-1xvli5t r-dnmrzs r-bnwqim r-1plcrui r-lrvibr r-1hdv0qi"]',
-            { clickCount: 1, delay: 50, }
-        )
-        console.log("Tweet beğenildi.")
+        while (true) {
+            const tweets = await page.$$('[data-testid="tweet"]')
+            for (const tweet of tweets) {
+                try {
+                    const isAd = await tweet.$('[data-testid="ad-badge"]')
+                    if (isAd) {
+                        continue
+                    }
+                    const likeButton = await tweet.$('[data-testid="like"]')
+                    const isLiked = likeButton ? (await (await likeButton.getProperty('aria-pressed')).jsonValue()) === true : false
+                    if (!isLiked) {
+                        if (likeButton) {
+                            await likeButton.click()
+                        }
+                        console.log("Tweet beğenildi.")
+                    }
+                    const retweetButton = await tweet.$('[data-testid="retweet"]')
+                    const isRetweeted = retweetButton ? (await (await retweetButton.getProperty('aria-pressed')).jsonValue()) === true : false
+                    const retweetButton2 = await page.$('[data-testid="retweetConfirm"]')
+                    const isRetweetedConfirm = retweetButton2 ? (await (await retweetButton2.getProperty('aria-pressed')).jsonValue()) === true : false
+                    // if (!isRetweeted && !isRetweetedConfirm) {
+                    //     if (retweetButton) {
+                    //         await retweetButton.click()
+                    //         await retweetButton2.click()
+                    //     }
+                    //     console.log("Tweet retweetlendi.")
+                    // }
+                    if (!isRetweeted) {
+                        if (retweetButton) {
+                            await retweetButton.click()
+                        }
+                        console.log("Tweet retweetlendi.")
+                    }
+                } catch (error) {
+                    console.log(error)
+                }
+            }
+            await page.evaluate(() => {
+                window.scrollBy(0, window.innerHeight);
+            })
+            const hasMoreTweets = await page.evaluate(() => {
+                const tweets = document.querySelectorAll('[data-testid="tweet"]');
+                const lastTweet = tweets[tweets.length - 1];
+                const lastTweetRect = lastTweet.getBoundingClientRect();
+                return lastTweetRect.bottom <= window.innerHeight;
+            })
+            if (!hasMoreTweets) {
+                break
+            }
+        }
+        await browser.close()
     } catch (error) {
         console.log(error)
+        await browser.close()
     }
 }
 
-// tweetLike()
+//tweetLike()
 //tweetWrite()
 
 //Her dakika bir tweet göndermek için setInterval fonksiyonunu kullanıyoruz.
 setInterval(tweetWrite, 30000)
-// setInterval(tweetLike, 60000)
+setInterval(tweetLike, 110000)
