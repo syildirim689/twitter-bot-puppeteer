@@ -50,7 +50,7 @@ async function twitterLogin() {
         )
     } catch (error) {
         console.log(error)
-        browser.close()
+        setTimeout(await browser.close(), 2000)
     }
 }
 
@@ -71,7 +71,7 @@ async function tweetWrite() {
     } catch (error) {
         console.log(error)
     }
-    await browser.close()
+    setTimeout(await browser.close(), 2000)
 }
 
 //Tweet beğenme fonksiyonumuzu oluşturuyoruz.
@@ -139,8 +139,7 @@ async function tweetLike() {
 }
 
 //tweetLike()
-//tweetWrite()
+// tweetWrite()
 
-//Her dakika bir tweet göndermek için setInterval fonksiyonunu kullanıyoruz.
-setInterval(tweetWrite, 30000)
-setInterval(tweetLike, 110000)
+// setInterval(tweetWrite, 30000)
+// setInterval(tweetLike, 110000)
