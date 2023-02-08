@@ -40,7 +40,8 @@ async function twitterLogin() {
         await page.waitForSelector('input[name="password"]')
         await page.type('input[name="password"]', password, { delay: 50 })
         console.log("Şifre girildi.")
-        await page.click('div[class="css-18t94o4 css-1dbjc4n r-1sw30gj r-sdzlij r-1phboty r-rs99b7 r-19yznuf r-64el8z r-1ny4l3l r-1dye5f7 r-o7ynqc r-6416eg r-lrvibr"',
+        await page.waitForSelector('[data-testid="LoginForm_Login_Button"]')
+        await page.click('[data-testid="LoginForm_Login_Button"]',
             { clickCount: 1, delay: 50, }
         )
         console.log("Twitter'a giriş yapıldı.")
@@ -139,7 +140,7 @@ async function tweetLike() {
 }
 
 //tweetLike()
-// tweetWrite()
+tweetWrite()
 
 // setInterval(tweetWrite, 30000)
 // setInterval(tweetLike, 110000)
