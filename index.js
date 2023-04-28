@@ -1,5 +1,8 @@
 //puppeteer kütüphanesini projemize dahil ediyoruz.
-const puppeteer = require('puppeteer')
+const puppeteer = require('puppeteer');
+
+//fs kütüphanesini projemize dahil ediyoruz.
+const fs = require('fs');
 
 //dotenv kütüphanesini projemize dahil ediyoruz.
 require('dotenv').config()
